@@ -2,7 +2,7 @@ ref : <a href="https://www.youtube.com/watch?v=rop0W4QDOUI">https://www.youtube.
 # Maze Solver
 A variety of algorithms *(DFS,BFS,Dijstra,Astar)* to solve mazes from an input image.<br>
 *Light green specifies the shortest dist but we added some stops(blue marks) and the new shortest path covering all stops is formed*<br>
-![maze image](https://raw.githubusercontent.com/portal-45g/on-a-voyage-with-cpp/master/Maze%20Solver/readmeExamples/%23stopsSolved.PNG)
+![maze image](https://raw.githubusercontent.com/portal-45g/Maze%20Solver/master/readmeExamples/%23stopsSolved.PNG)
 
 ## lib
 - opencv2.4.9.1
@@ -18,5 +18,5 @@ Some example mazes are included in the repository.// These were generated either
 - One white square exists on the bottom row of the image, and is the end of the maze.
 - blue spots are BGR::(255,0,0);
 - there are some rule on bases of which Node are formed after forming nodes,connected are made
-![maze image](https://raw.githubusercontent.com/portal-45g/on-a-voyage-with-cpp/master/Maze%20Solver/readmeExamples/Nodelist.PNG)
+![maze image](https://raw.githubusercontent.com/portal-45g/Maze%20Solver/master/readmeExamples/Nodelist.PNG)
 
