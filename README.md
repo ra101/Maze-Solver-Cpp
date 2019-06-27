@@ -10,7 +10,7 @@ A variety of algorithms *(DFS,BFS,Dijstra,Astar)* to solve mazes from an input i
 - stl
 
 ## Input
-I have copied maze images form ref acc. to ref, these were generated either by hand, or using the software [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm). Once exported I edited the mazes to ensure that the following rules are adhered to:
+I have copied maze images from ref, acc. to ref. these were generated either by hand, or using the software [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm). Once exported I edited the mazes to ensure that the following rules are adhered to:
 
 ## Rules
 - Each maze is black and white. White represents paths, black represents walls.
